@@ -1,5 +1,5 @@
 # The-Treasure-of-a-Cottage
-Treasure hunt game, "The Treasure of a Cottage".
+Treasure hunt game, "The Treasure of a Cottage". created with devnowk
 
 It was created in Unity 3D 4.31 version, so if you open it in the latest version, you will get an error because there is no Canvas(Unity ver.4 does not support the Canvas function).
 
